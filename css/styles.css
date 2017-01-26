@@ -54,3 +54,44 @@ body {
   background-color: white;
   margin-top: -1px;
 }
+.left-wiki {
+  text-align: center;
+  margin-left: -100px;
+}
+
+.left-wiki h2 {
+  font-size: 150%;
+}
+
+.left-wiki p {
+  font-size: 90%;
+}
+
+.right-wiki {
+  padding-top: 2.5rem;
+  margin-right: -2rem;
+}
+
+.wiki {
+  margin-left: 2rem;
+  border: 1px solid gray;
+  background-color: #F9F9F9;
+}
+
+.left-article {
+  background-color: #F5FFFA;
+  border: 1px solid #CEF2E0;
+  margin-top: 1rem;
+  margin-left: 3.5rem;
+}
+
+.left-article h3 {
+  background-color: #CEF2E0;
+  border: 1px solid #A3BFB1;
+  margin-top: 1rem;
+  font-size: 1.75rem;
+  font-weight: bold;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
