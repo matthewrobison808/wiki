@@ -1,0 +1,50 @@
+body {
+  background-color: #F6F6F6;
+}
+
+.left-side {
+  margin: 10px 20px 10px 20px;
+}
+
+.logo {
+  width:140px;
+}
+
+.left-side {
+  width: 145px;
+  float: left;
+}
+
+.left-side ul {
+  list-style-type: none;
+}
+.left-side p {
+  color:gray;
+}
+
+.main-nav li {
+  text-indent: -2em;
+}
+
+.main-nav {
+  margin-top: 15px;
+  margin-left: -4px;
+  border-bottom: 1px solid lightgray;
+}
+
+.side-list li{
+  text-indent: -2em;
+}
+.list {
+  margin-top: -.5em;
+}
+.section {
+  border-bottom: 1px solid lightgray;
+  padding-top: 2px;
+}
+
+.user-status {
+  float: right;
+  margin: 5px;
+  margin-right: 7px;
+}
